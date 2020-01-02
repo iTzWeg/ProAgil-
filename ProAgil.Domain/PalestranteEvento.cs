@@ -1,6 +1,6 @@
 namespace ProAgil.Domain
 {
-    public class PalestanteEvento
+    public class PalestranteEvento
     {
         public int PalestranteId { get; set; }
         public Palestrante Palestrante { get; set; }
