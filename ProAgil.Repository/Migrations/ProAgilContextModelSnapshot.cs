@@ -25,7 +25,7 @@ namespace ProAgil.Repository.Migrations
 
                     b.Property<string>("Email");
 
-                    b.Property<string>("ImageURL");
+                    b.Property<string>("ImagemURL");
 
                     b.Property<string>("Local");
 
